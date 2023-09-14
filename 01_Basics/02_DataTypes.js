@@ -10,3 +10,7 @@ let Student = {
 
 console.log(Student);
 console.log(typeof Student); //OBj
+
+let myArray = ["Rohit", 44, "Soni"];
+
+console.log(myArray);
